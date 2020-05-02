@@ -1,7 +1,7 @@
 
 
 <H1 ALIGN="CENTER">JAVA</H1>
-<CENTER>
+<P ALIGN="CENTER">
 EJERCICIOS :
   <br/>
   Hola Mundo
@@ -9,4 +9,4 @@ EJERCICIOS :
 PROCESOS :
 
 Abre el notepad
-</CENTER>
+</P>
