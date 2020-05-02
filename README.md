@@ -2,7 +2,7 @@
 
 <H1 ALIGN="CENTER">JAVA</H1>
 EJERCICIOS :
-  Hola Mundos
+  Hola Mundo
   <br/>
 PROCESOS :
 
