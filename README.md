@@ -6,4 +6,4 @@ EJERCICIOS :
   <br/>
 PROCESOS :
 
-  Proceso : Abre el notepad
+Abre el notepad
